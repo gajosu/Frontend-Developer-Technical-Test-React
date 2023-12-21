@@ -9,6 +9,7 @@ Your task is to create a simple React component that fetches and displays a list
 1. **Fetch Todos:**
    - Use the JSONPlaceholder API to fetch todos. API Endpoint: `https://jsonplaceholder.typicode.com/todos`
    - You can use native fetch API, Axios, or any other HTTP client you are comfortable with.
+   - API Documentation: [JSONPlaceholder API](https://jsonplaceholder.typicode.com/guide/)
 
 2. **Display Todos:**
    - Render the fetched todos in a list. Each list item should display the todo's title and completion status.
@@ -32,5 +33,12 @@ Your task is to create a simple React component that fetches and displays a list
 - Functionality: The application works as intended.
 - Code Quality: Clean, organized, and commented code.
 - Understanding of React concepts: Proper use of state, lifecycle methods, etc.
+
+## Additional Resources
+
+- Feel free to use any documentation or resources available online, including:
+    - React Documentation: [React Docs](https://reactjs.org/docs/getting-started.html)
+    - Online forums like Stack Overflow.
+    - Google for any programming-related queries.
 
 Good luck!
