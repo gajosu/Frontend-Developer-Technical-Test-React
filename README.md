@@ -2,7 +2,7 @@
 # Frontend Developer Technical Test - React
 
 ## Objective
-Your task is to create a simple React component that fetches and displays a list of todos from the JSONPlaceholder API.
+Your task is to create a simple React component that fetches, displays, edits, and deletes a list of todos from the JSONPlaceholder API.
 
 ## Requirements
 
@@ -15,10 +15,15 @@ Your task is to create a simple React component that fetches and displays a list
    - Render the fetched todos in a list. Each list item should display the todo's title and completion status.
    - Ensure the list is readable and user-friendly.
 
-3. **Error Handling:**
+3. **Edit and Delete Todos:**
+   - Implement functionality to edit the title of a todo.
+   - Add a feature to delete a todo from the list.
+   - Note: Since JSONPlaceholder API does not support persistent changes, simulate these actions in the front end.
+
+4. **Error Handling:**
    - Implement basic error handling for the API request.
 
-4. **Code Organization:**
+5. **Code Organization:**
    - Structure your code in a clean and logical manner.
    - Include comments where necessary to explain your logic.
 
@@ -30,7 +35,7 @@ Your task is to create a simple React component that fetches and displays a list
 
 ## Evaluation Criteria
 
-- Functionality: The application works as intended.
+- Functionality: The application works as intended, including editing and deleting tasks.
 - Code Quality: Clean, organized, and commented code.
 - Understanding of React concepts: Proper use of state, lifecycle methods, etc.
 
