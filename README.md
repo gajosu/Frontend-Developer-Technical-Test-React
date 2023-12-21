@@ -42,7 +42,7 @@ Your task is to create a simple React component that fetches, displays, edits, a
 ## Additional Resources
 
 - Feel free to use any documentation or resources available online, including:
-    - React Documentation: [React Docs](https://reactjs.org/docs/getting-started.html)
+    - React Documentation: [React Docs](https://react.dev)
     - Online forums like Stack Overflow.
     - Google for any programming-related queries.
 
